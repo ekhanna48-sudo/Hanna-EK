@@ -1,100 +1,21 @@
-# Hi there, I'm Hanna 👋
+# 💫 About Me:
+# Hi there, I'm Hanna 👋<br><br>## 👩‍💻 About Me<br>I'm a **Cybersecurity Engineering student** with a strong interest in **Cybersecurity, Machine Learning, and Software Development**. I enjoy learning new technologies, solving real-world problems, and building projects that improve my technical skills.<br><br>- 🎓 B.Tech in Cyber Security<br>- 💻 Passionate about Cybersecurity & Ethical Hacking<br>- 🤖 Interested in Machine Learning & AI<br>- 🌱 Currently learning Advanced Security Concepts and ML<br>- 🚀 Always exploring new technologies<br><br>---<br><br>## 🎓 Qualifications<br><br>- Bachelor's Degree in Cyber Security Engineering *(Pursuing)*<br>- Strong foundation in:<br>  - Operating Systems<br>  - Computer Networks<br>  - Database Management Systems (DBMS)<br>  - Data Structures & Algorithms<br>  - Machine Learning Basics<br>  - Network Security<br><br>---<br><br>## 🛠️ Technical Skills<br><br>### Programming Languages<br>- Python<br>- C<br>- Java<br>- SQL<br><br>### Cybersecurity<br>- Network Security<br>- Ethical Hacking Fundamentals<br>- Vulnerability Assessment<br>- Phishing Detection<br>- Security Best Practices<br><br>### Machine Learning<br>- Data Preprocessing<br>- Model Training<br>- Classification Algorithms<br>- Scikit-learn<br>- Pandas<br>- NumPy<br><br>### Databases<br>- MySQL<br><br>### Tools & Technologies<br>- Git & GitHub<br>- Linux (Ubuntu)<br>- VS Code<br>- Wireshark<br>- Cisco Packet Tracer<br><br>---<br><br>## 📚 Currently Learning<br><br>- Advanced Cybersecurity<br>- Penetration Testing<br>- Deep Learning<br>- Cloud Security<br>- Threat Intelligence<br><br>---<br><br>## 📂 Projects<br><br>- 🔒 Phishing URL Detection using Machine Learning<br>- 🛡️ Healthcare Cybersecurity Projects<br>- 💻 Cybersecurity Mini Projects<br>- 🤖 Machine Learning Applications<br><br>---<br><br>## 🌟 Soft Skills<br><br>- Problem Solving<br>- Teamwork<br>- Communication<br>- Critical Thinking<br>- Quick Learner<br>- Time Management<br><br>---<br><br>## 📫 Connect With Me<br><br>- GitHub: https://github.com/ekhanna48-sudo<br>- LinkedIn: https://linkedin.com/in/hanna05<br>- Email: ekhanna48@gmail.com<br><br>---<br><br>⭐ *"Learning never stops. Every project is a step toward becoming a better cybersecurity professional."*
 
-## 👩‍💻 About Me
-I'm a **Cybersecurity Engineering student** with a strong interest in **Cybersecurity, Machine Learning, and Software Development**. I enjoy learning new technologies, solving real-world problems, and building projects that improve my technical skills.
 
-- 🎓 B.Tech in Cyber Security
-- 💻 Passionate about Cybersecurity & Ethical Hacking
-- 🤖 Interested in Machine Learning & AI
-- 🌱 Currently learning Advanced Security Concepts and ML
-- 🚀 Always exploring new technologies
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ha.ann.ah_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hanna05) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@hanna ek) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ekhanna48@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ekhanna48-sudo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ekhanna48-sudo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ekhanna48-sudo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🎓 Qualifications
-
-- Bachelor's Degree in Cyber Security Engineering *(Pursuing)*
-- Strong foundation in:
-  - Operating Systems
-  - Computer Networks
-  - Database Management Systems (DBMS)
-  - Data Structures & Algorithms
-  - Machine Learning Basics
-  - Network Security
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=ekhanna48-sudo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Technical Skills
-
-### Programming Languages
-- Python
-- C
-- Java
-- SQL
-
-### Cybersecurity
-- Network Security
-- Ethical Hacking Fundamentals
-- Vulnerability Assessment
-- Phishing Detection
-- Security Best Practices
-
-### Machine Learning
-- Data Preprocessing
-- Model Training
-- Classification Algorithms
-- Scikit-learn
-- Pandas
-- NumPy
-
-### Databases
-- MySQL
-
-### Tools & Technologies
-- Git & GitHub
-- Linux (Ubuntu)
-- VS Code
-- Wireshark
-- Cisco Packet Tracer
-
----
-
-## 📚 Currently Learning
-
-- Advanced Cybersecurity
-- Penetration Testing
-- Deep Learning
-- Cloud Security
-- Threat Intelligence
-
----
-
-## 📂 Projects
-
-- 🔒 Phishing URL Detection using Machine Learning
-- 🛡️ Healthcare Cybersecurity Projects
-- 💻 Cybersecurity Mini Projects
-- 🤖 Machine Learning Applications
-
----
-
-## 🌟 Soft Skills
-
-- Problem Solving
-- Teamwork
-- Communication
-- Critical Thinking
-- Quick Learner
-- Time Management
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourusername
-- Email: your.email@example.com
-
----
-
-⭐ *"Learning never stops. Every project is a step toward becoming a better cybersecurity professional."*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
